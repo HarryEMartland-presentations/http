@@ -1,4 +1,5 @@
-# HTTP Clients (in Java)
+# HTTP Clients
+## (in Java)
 
 ---
 ## Why should I care
