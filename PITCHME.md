@@ -18,7 +18,7 @@
 * Reactive
 * NIO
 
-Notes:
+Note:
     Extensibility: if there are pre and post hooks so you can add security headers, metrics, ...
 ---
 
